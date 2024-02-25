@@ -1,9 +1,6 @@
 ﻿using System;
-// integer number
-class ABC
-{
-    static void Main()
-    {
-        
-    }
-}
+
+Console.WriteLine("I am main");
+
+DataTypes dt = new();
+dt.Learn();
